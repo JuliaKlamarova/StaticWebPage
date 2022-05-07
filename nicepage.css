@@ -36566,51 +36566,13 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 126px;
 }
 
-.u-header .u-icon-1 {
-  width: 64px;
-  height: 64px;
-  margin: 31px auto 0 344px;
-}
-
 .u-header .u-text-1 {
-  margin: -50px 375px 45px auto;
+  margin: 45px auto;
 }
-@media (max-width: 1199px) {
-  .u-header .u-icon-1 {
-    margin-left: 284px;
-  }
 
-  .u-header .u-text-1 {
-    margin-right: 309px;
-  }
-}
-@media (max-width: 991px) {
-  .u-header .u-icon-1 {
-    margin-left: 218px;
-  }
 
-  .u-header .u-text-1 {
-    margin-right: 237px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-icon-1 {
-    margin-left: 164px;
-  }
 
-  .u-header .u-text-1 {
-    margin-right: 178px;
-  }
-}
-@media (max-width: 575px) {
-  .u-header .u-icon-1 {
-    margin-left: 103px;
-  }
 
-  .u-header .u-text-1 {
-    margin-right: 112px;
-  }
-}
  .u-footer {
   background-image: none;
 }
