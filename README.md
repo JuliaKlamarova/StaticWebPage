@@ -1,2 +1,2 @@
 # StaticWebPage
-The Blog of Data Scientist
+KlamarovaTheBlogOfDataScientist  (The Blog of Data Scientist)
